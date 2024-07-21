@@ -1,4 +1,4 @@
-module grpc
+module github.com/wangshuaiyi1/day4
 
 go 1.22
 
